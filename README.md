@@ -25,3 +25,4 @@ weight_path="./MODEL"
 ```
 
 模型运行只需要配置好环境，在main.py文件运行即可。
+
