@@ -26,3 +26,6 @@ weight_path="./MODEL"
 
 模型运行只需要配置好环境，在main.py文件运行即可。
 
+#训练集和测试集被保存在百度网盘中
+链接：https://pan.baidu.com/s/1i2_2yPxjaA4IWNPK8BKK7g?pwd=jlnx 
+提取码：jlnx
