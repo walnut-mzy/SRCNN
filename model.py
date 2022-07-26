@@ -32,5 +32,5 @@ if __name__ == '__main__':
     inputs = Input(shape=(settings.x,settings.y,3), batch_size=settings.batch)
     SRCNN=SRCNN()
     out = SRCNN(inputs)
-    model = Model(inputs=inputs, outputs=out, name='transformers-tf2')
+    model = Model(inputs=inputs, outputs=out, name='SRCNN-tf2')
     model.summary()
